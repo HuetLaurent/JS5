@@ -1,0 +1,10 @@
+.timer {
+    display: flex;
+    justify-content: left;
+}
+
+.timer p {
+    width: 15px;
+    height: 10px;
+    text-align: center;
+}
